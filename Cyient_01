@@ -1,0 +1,43 @@
+C# / VB  -> Microsoft
+Intro to .Net - Program Structure, 
+Data Types (primitive, value and reference types), 
+TypeCasting, 
+Conversion, 
+Boxing and Unboxing
+
+int a  = 10;
+a =20;
+
+JavaScript
+Java
+
+
+2002  .Net Framework   1.0 (deprecated)     Windows
+2003  .Net Framework   1.2                           Windows
+.
+.
+.
+.
+2010  .Net Framework   4.x		Windows
+2016  .Net Core 1.0			Windows/macOS/Linux (open source)
+.
+.
+.
+.
+2019  .Net core 3.1			Windows/macsOS/Linux
+2020  .Net 5			Framework + core (Windows/macOS/Linux)
+
+
+VBScript - like JavaScript used for web pages programming. Its client side programming language.
+VBA - used to program in macros for excel.
+VB.Net - Server-side programming language.
+
+C# developed by Ander heilsberg, he was working at AT&T Bell Labs
+
+
+.Net Framework                                     .Net core
+Windows only			all platforms
+IDE - Visual Studio			IDE - Visual Studio (all versions)
+                 Community		        - VSCode 	
+	Professional
+	Enterprise
